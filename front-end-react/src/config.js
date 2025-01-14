@@ -1,3 +1,3 @@
 module.exports = {
-  WebsocketEndpoint: 'REPLACE_WITH_WWS_ENDPOINT'
+  WebsocketEndpoint: 'wss://hb6tyd6k7a.execute-api.us-east-1.amazonaws.com/Prod'
 };
